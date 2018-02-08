@@ -3,7 +3,8 @@
 
 ---
 
-<h1 id="chapter-3-parallel-computing-concepts-terminology-platforms">Chapter 3: Parallel Computing: Concepts, Terminology, Platforms</h1>
+<h1 id="chapter-3">Chapter 3</h1>
+<h2 id="parallel-computing-concepts-terminology-platforms">Parallel Computing: Concepts, Terminology, Platforms</h2>
 <h3 id="task-decomposition">task decomposition</h3>
 <ul>
 <li>types

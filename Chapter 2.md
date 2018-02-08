@@ -3,7 +3,8 @@
 
 ---
 
-<h2 id="chapter-2-review-of-computer-architecture-concepts">Chapter 2: Review of Computer Architecture Concepts</h2>
+<h1 id="chapter-2">Chapter 2:</h1>
+<h2 id="review-of-computer-architecture-concepts">Review of Computer Architecture Concepts</h2>
 <h3 id="peak-performance">Peak performance</h3>
 <p>The theoretical maximum that the hardware can deliver under idealized conditions</p>
 <h3 id="the-performance-equation">The performance equation</h3>

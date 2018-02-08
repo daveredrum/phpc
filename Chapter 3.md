@@ -95,9 +95,6 @@
 </li>
 </ul>
 <h3 id="platforms">platforms</h3>
-<ul>
-<li>general</li>
-</ul>
 
 <table>
 <thead>

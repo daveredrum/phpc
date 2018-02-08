@@ -3,7 +3,8 @@
 
 ---
 
-<h2 id="chapter-1-introduction">Chapter 1: Introduction</h2>
+<h1 id="chapter-1">Chapter 1:</h1>
+<h2 id="introduction">Introduction</h2>
 <h3 id="moores-law">Moore’s Law</h3>
 <p>The number of transistors on a chip doubles roughly in 18-24 months</p>
 <h3 id="the-intel-tick-tock-model">The Intel Tick-tock Model</h3>

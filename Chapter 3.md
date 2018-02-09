@@ -35,9 +35,7 @@
 </ul>
 <h3 id="decomposition-techniques">decomposition techniques</h3>
 <ul>
-<li>
-<p>data decomposition =&gt; domain decomposition</p>
-<ul>
+<li>data decomposition =&gt; domain decomposition</li>
 <li>recursive decomposition
 <ul>
 <li>divide and conquer</li>
@@ -62,22 +60,20 @@
 </ul>
 </li>
 </ul>
-</li>
-<li>
-<p>speedup and efficiency</p>
+<h3 id="speedup-and-efficiency">speedup and efficiency</h3>
 <ul>
-<li>definition
+<li>
+<p>definition</p>
 <ul>
 <li>Tn: execution time on n cores</li>
 <li>speedup Sn = T1 / Tn</li>
 <li>efficiency En = Sn / n</li>
 </ul>
 </li>
-<li><strong>Amdahl’s Law</strong>
+<li>
+<p><strong>Amdahl’s Law</strong></p>
 <ul>
 <li>the achievable speedup is limited by the serial (non-parallelizable) portion of an application</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>

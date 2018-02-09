@@ -107,7 +107,7 @@
 </ul>
 <h3 id="communication-performance-models">Communication Performance Models</h3>
 <ul>
-<li>latency and bandwidth model
+<li>latency and bandwidth model (<strong>alpha-beta model</strong>)
 <ul>
 <li><strong>time = alpha + n*beta</strong>, where alpha = latency, beta = 1/bandwidth</li>
 <li>one long message is cheaper than many short ones</li>

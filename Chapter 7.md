@@ -54,6 +54,17 @@
 <li>update information is kept in a directory data structure =&gt; <strong>bit map</strong></li>
 </ul>
 </li>
+<li>true sharing
+<ul>
+<li>could generate a lot of coherence traffic</li>
+</ul>
+</li>
+<li>false sharing
+<ul>
+<li>coherence is organized by cache lines, not by individual words</li>
+<li>two separate variables could end up on the same cache line</li>
+</ul>
+</li>
 </ul>
 <h3 id="memory-consistency-models">Memory Consistency Models</h3>
 <ul>

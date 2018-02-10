@@ -37,7 +37,7 @@
 </li>
 </ul>
 </li>
-<li>scheduing
+<li>two-level scheduing
 <ol>
 <li>GPU schedules thread blocks for execution on a <strong>streaming multiprocessor (SM)</strong></li>
 <li>a SM schedules a SIMD thread (warp) for execution on a <strong>streaming processor (SP)</strong></li>

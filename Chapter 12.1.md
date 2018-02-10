@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="chapter-12.1">Chapter 12.1</h1>
+<h1 id="chapter-12">Chapter 12</h1>
 <h2 id="partitional-global-address-space-programming-pgas">Partitional Global Address Space Programming (PGAS)</h2>
 <h3 id="context-for-upc">Context for UPC</h3>
 <ul>

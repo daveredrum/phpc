@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="chapter-11">Chapter 11</h1>
+<h1 id="chapter-11.1">Chapter 11.1</h1>
 <h2 id="gpus-and-cuda-programming">GPUs and CUDA Programming</h2>
 <h3 id="terminology">Terminology</h3>
 <ul>
